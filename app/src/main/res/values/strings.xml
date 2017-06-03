@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ShiftCloud</string>
+
+    <string name="gm" translatable="false">GM</string>
+    <string name="fiat" translatable="false">Fiat</string>
+    <string name="honda" translatable="false">Honda</string>
+    <string name="botao_apagar">DELETE</string>
+</resources>

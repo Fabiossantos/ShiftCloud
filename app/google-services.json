@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "17096850062",
+    "firebase_url": "https://shift-e36e5.firebaseio.com",
+    "project_id": "shift-e36e5",
+    "storage_bucket": "shift-e36e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17096850062:android:935b2f6d6402ab36",
+        "android_client_info": {
+          "package_name": "br.com.fabiosantos.shiftcloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17096850062-aptio1kpbp2pbe7tu1cj5lngai2ef3bp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzDxGsq5flKHK4s-vGLuIV5YdpGLH-O3c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

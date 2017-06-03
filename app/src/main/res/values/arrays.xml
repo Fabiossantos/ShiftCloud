@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="fabricantes">
+        <item>@string/fiat</item>
+        <item>@string/gm</item>
+        <item>@string/honda</item>
+    </string-array>
+
+</resources>
